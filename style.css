@@ -1,0 +1,45 @@
+body{
+    background-image: url("./img/winter-snow.jpg");
+    display: flex;
+    flex-direction: column;
+}
+table{
+    background-color: grey;
+    border: 5px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    align-items: center;
+}
+th{
+    border: 2px solid red;
+}
+h1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border: 4px solid black;
+    padding: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.weekend{
+    color: red;
+}
+.santa{
+    margin-right: 100px;
+}
+.santa1{
+    margin-left: 100px;
+}
+ul{
+    background-color: grey;
+    color: white;
+    border: 3px solid black;
+    margin-left: 500px;
+    margin-right: 500px;
+    align-items: center;
+}
+.someDay{
+    background-color: yellow;
+    color: black;
+}
